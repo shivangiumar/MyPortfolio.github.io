@@ -52,4 +52,20 @@
         "name": "Git",
         "icon": "https://img.icons8.com/color/48/git.png"
     }
+    ,
+    {
+        "name": "Data Structure",
+        "icon": "https://img.icons8.com/external-flat-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah.png"
+        
+    }
+    ,
+    {
+        "name": "Algorithms",
+        "icon":"https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"
+    }
+    ,
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    }
 ]
