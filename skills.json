@@ -47,5 +47,9 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://icons8.com/icon/20906/git"
     }
 ]
